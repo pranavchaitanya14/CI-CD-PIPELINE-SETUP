@@ -9,7 +9,7 @@
 1. Go to **GitHub → New Repository**
 2. Fill details:
 
-   * Repository Name: `ci-cd-demo` (or any name)
+   * Repository Name: CI-CD-PIPELINE-SETUP
    * Visibility: **Public**
    * Check **“Add a README”**
 3. Click **Create Repository**
